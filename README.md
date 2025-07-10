@@ -2,9 +2,6 @@ Mini Docs App
 
 A sleek and interactive document card UI built with React, Framer Motion, and Tailwind CSS. This project simulates a mini cloud-based document interface where cards can be dragged, tagged, and styled with smooth animations — great for learning animation, layout, and component design in React.
 
-📸 Preview
-
-(Add your own screenshot or screen recording here)
 
 🚀 Features
 
